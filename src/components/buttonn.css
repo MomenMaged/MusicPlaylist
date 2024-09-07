@@ -1,0 +1,63 @@
+.button {
+    cursor: pointer;
+    width: 10.11rem;
+    padding: .77rem 0;
+    border-radius: 70px;
+    background-color: #1d2192;
+    text-align: center;
+    font-size: .833rem;
+    transition: background-color .25s;
+    border: 0px;
+    color: #fff;
+    font-weight: 500;
+    float : right;
+  }
+  .button:hover {
+    background-color: rgba(108, 65, 233, .7);
+  }
+  .button2 {
+    cursor: pointer;
+    width: 10.11rem;
+    padding: 3.7rem ;
+    border-radius: 70px;
+    background-color: #1d2192;
+    text-align: center;
+    font-size: .833rem;
+    transition: background-color .25s;
+    border: 0px;
+    color: #fff;
+    font-weight: 500;
+    float : right;
+  }
+  .button3 {
+    cursor: pointer;
+    width: 10.11rem;
+    padding: 3.7rem ;
+    border-radius: 70px;
+    background-color: #1d2192;
+    text-align: center;
+    font-size: .833rem;
+    transition: background-color .25s;
+    border: 0px;
+    color: #fff;
+    font-weight: 500;
+    float : right;
+  }
+  .buttonn {
+    cursor: pointer;
+    width: 5.11rem;
+    padding: .77rem 0;
+    border-radius: 70px;
+    background-color: #1d2192;
+    text-align: center;
+    font-size: .833rem;
+    transition: background-color .25s;
+    border: 0px;
+    color: #fff;
+    font-weight: 500;
+    float : right;
+  }
+  .buttonn:hover {
+    background-color: rgba(108, 65, 233, .7);
+  }
+  

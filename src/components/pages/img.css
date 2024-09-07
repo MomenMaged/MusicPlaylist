@@ -1,0 +1,15 @@
+.imgg {
+    width: 110px;
+    margin-left: 30px;
+  }
+  .Divvv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 8rem;
+    margin-bottom: 4rem;
+  }
+  .imggg {
+    width: 160px;
+    margin-left: 30px;
+  }
